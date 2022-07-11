@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a868c79a-c3c1-4c29-9eaa-c0d656e18938" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/nz/co/bankroll/seon/SeonModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/reactnativeseon/SeonModule.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/reactnativeseon/SeonPackage.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nz/co/bankroll/seon/SeonPackage.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example/ios/SeonExample.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../example/ios/SeonExample.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../example/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Seon.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Seon.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Seon.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Seon.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-native-seon.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/../react-native-seon.podspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../src/index.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1l8wUgvx5NrPlohcBxYTpJPItxG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="project.structure.last.edited" value="Build Variants" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.44162437" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Default Config" />
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="nz.co.bankroll.seon" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a868c79a-c3c1-4c29-9eaa-c0d656e18938" name="Default Changelist" comment="" />
+      <created>1606992043678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606992043678</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="881" y="387" width="1461" height="644" key="#PSD" timestamp="1606992385910">
+      <screen x="0" y="25" width="3440" height="1353" />
+    </state>
+    <state x="881" y="387" width="1461" height="644" key="#PSD/0.25.3440.1353@0.25.3440.1353" timestamp="1606992385910" />
+    <state x="1155" y="268" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1606993124252">
+      <screen x="0" y="25" width="3440" height="1353" />
+    </state>
+    <state x="1155" y="268" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.25.3440.1353@0.25.3440.1353" timestamp="1606993124252" />
+    <state x="985" y="497" key="AndroidCreateResourceDirectoryDialog" timestamp="1606993105185">
+      <screen x="0" y="25" width="3440" height="1353" />
+    </state>
+    <state x="985" y="497" key="AndroidCreateResourceDirectoryDialog/0.25.3440.1353@0.25.3440.1353" timestamp="1606993105185" />
+    <state x="1040" y="479" width="713" height="518" key="find.popup" timestamp="1606993150018">
+      <screen x="0" y="25" width="3440" height="1353" />
+    </state>
+    <state x="1040" y="479" width="713" height="518" key="find.popup/0.25.3440.1353@0.25.3440.1353" timestamp="1606993150018" />
+  </component>
+</project>
