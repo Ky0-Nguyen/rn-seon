@@ -30,8 +30,11 @@ RCT_REMAP_METHOD(logging, enabled:(BOOL*)enabled loggingResolver:(RCTPromiseReso
 
 RCT_REMAP_METHOD(fingerprint, fingerprintResolver:(RCTPromiseResolveBlock)resolve rejecter:(RCTPromiseRejectBlock)reject)
 {
-    NSString *fingerprint = [[SeonFingerprint sharedManager] fingerprintBase64];
-    resolve(fingerprint);
+    [[SeonFingerprint sharedManager]  fingerprintBase64With:^(NSString *fingerPrint) {
+        //set seonFingerprint as the value for the session
+        //property of your Fraud API request.
+        resolve(fingerPrint);
+    }];
 }
 
 @end
